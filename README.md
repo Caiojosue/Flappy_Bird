@@ -30,12 +30,12 @@ Pré-requisitos: Python 3.12
           
 ```bash
 # clonar repositório
-git clone https://github.com/Caiojosue/Bot-Pedbot/tree/main
+git clone https://github.com/Caiojosue/Flappy_Bird
 
-# entrar na pasta bot.py
+# entrar nas pastas
 
 # executar o projeto em seu vscode ou outra plataforma
-usando a biblioteca pyTelegramBotAPI
+usando a biblioteca pygame
 ```
 
 1- Clone os arquivos do projeto para este repositório
